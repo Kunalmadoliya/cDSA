@@ -144,3 +144,4 @@ console.log("count", ab.count());
 ab.traverseFromStart()
 
 ab.count();
+ 
