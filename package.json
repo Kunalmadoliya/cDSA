@@ -1,0 +1,23 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Kunalmadoliya/cDSA#readme",
+  "bugs": {
+    "url": "https://github.com/Kunalmadoliya/cDSA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunalmadoliya/cDSA.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "Array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
