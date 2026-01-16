@@ -16,4 +16,6 @@ newStack.push(30);
 
 console.log("Empty :-", newStack.isEmpty());
 
-console.log("Size :-" , newStack.size());
+console.log("Size :-", newStack.size());
+
+ newStack.traverse();
